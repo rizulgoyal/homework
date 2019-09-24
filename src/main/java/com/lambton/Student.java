@@ -63,7 +63,7 @@ public class Student {
         int b = Period.between(lecture,curDate).getMonths();
         int c = Period.between(lecture,curDate).getYears();
 
-if ()
+
 calculateRemainingTime("2019-09-23 17:30");
 
 
